@@ -75,6 +75,7 @@ function ...@ {
     else
         source ~/.../lib/eachsource.zsh "$@"
     fi
+    true
 }
 
 # By using this you get ...trace abilities, plus it guards against recursion
